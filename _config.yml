@@ -1,0 +1,55 @@
+# Site settings
+title: "Jekyll Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Najim Mazidi"
+resume_title:                   "Undergraduate Software Engineer"
+resume_contact_email:           "nmazidi95@gmail.com"
+resume_contact_telephone:       "07474306999"
+resume_contact_address:         "Plymouth, Devon, UK"
+resume_header_contact_info: "Plymouth, Devon | 07474306999 | nmazidi95@gmail.com"
+resume_header_intro: "<p>I am a student at the University of Plymouth. I'm currently persuing my undergraduate degree in Computer Science, and am in my second year. I strive to create efficient, readable and self-explanatory code.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/nmazidi/"
+  resume_twitter_url:           "http://twitter.com/jglovier"
+  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/najim-mazidi-493208116/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://najim.co.uk"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
