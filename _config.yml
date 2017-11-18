@@ -16,7 +16,7 @@ resume_contact_email:           "nmazidi95@gmail.com"
 resume_contact_telephone:       "07474306999"
 resume_contact_address:         "Plymouth, Devon, UK"
 resume_header_contact_info: "Plymouth, Devon | 07474306999 | nmazidi95@gmail.com"
-resume_header_intro: "<p>Hi! My name is Najim Mazidi, I'm 22 years old, originally from London, currently pursuing a degree in Computer Science at the University of Plymouth, in my final year of study. I'm an enthusiastic hard worker who is happy to tackle any challenge that's put in front of me.</p>"
+resume_header_intro: "<p>Hi there! My name is Najim Mazidi, I'm 22 years old, and originally from London. I am currently pursuing a degree in Computer Science at the University of Plymouth, and am in my final year of study. I'm an enthusiastic hard worker who is happy to tackle any challenge that's put in front of me, head first.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -30,18 +30,18 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+#resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/nmazidi/"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_twitter_url:           ""
+  #resume_dribbble_url:          ""
+  resume_facebook_url:          "https://www.facebook.com/nmazidi"
   resume_linkedin_url:          "https://www.linkedin.com/in/najim-mazidi-493208116/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://najim.co.uk"
