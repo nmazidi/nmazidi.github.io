@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Najim Mazidi"
+description: "Resume of Najim Mazidi"
 
 # Build settings
 markdown: kramdown
@@ -16,7 +16,7 @@ resume_contact_email:           "nmazidi95@gmail.com"
 resume_contact_telephone:       "07474306999"
 resume_contact_address:         "Plymouth, Devon, UK"
 resume_header_contact_info: "Plymouth, Devon | 07474306999 | nmazidi95@gmail.com"
-resume_header_intro: "<p>I am a student at the University of Plymouth. I'm currently persuing my undergraduate degree in Computer Science, and am in my second year. I strive to create efficient, readable and self-explanatory code.</p>"
+resume_header_intro: "<p>Hi! My name is Najim Mazidi, I'm 22 years old, originally from London, currently pursuing a degree in Computer Science at the University of Plymouth, in my final year of study. I'm an enthusiastic hard worker who is happy to tackle any challenge that's put in front of me.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
