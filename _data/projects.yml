@@ -7,7 +7,7 @@
   url: "https://github.com/nmazidi/NRBF-NN"
   description: A normalised radial basis function (NRBF) that predicts the total energy produced by solar power in the UK, hour by hour.
 
-- project: MammoCalcifications (ongoing research project)
+- project: MammoCalcifications (ongoing)
   role: Python&#44; Matlab&#44; ImageJ
   duration: 2017
   url: "https://github.com/nmazidi/MammoCalcifications"
