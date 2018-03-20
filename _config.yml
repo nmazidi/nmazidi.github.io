@@ -1,6 +1,6 @@
 # Site settings
 title: "Najim Mazidi"
-description: "Resume of Najim Mazidi"
+description: "CV of Najim Mazidi"
 
 # Build settings
 markdown: kramdown
@@ -44,7 +44,7 @@ resume_social_links:
   resume_facebook_url:          "https://www.facebook.com/nmazidi"
   resume_linkedin_url:          "https://www.linkedin.com/in/najim-mazidi-493208116/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://najim.co.uk"
+  # resume_website_url:           "http://najim.co.uk"
 resume_print_social_links:      false
 
 # Design settings

@@ -1,12 +1,12 @@
 # Skills
 - skill: Practices
-  description: Agile, object-oriented programming, Git version control, design patterns, pair programming
+  description: Working in a team using Agile methodology, object-oriented programming, Git version control, design patterns, pair programming
 
 - skill: Languages
-  description: Java, Python, C&#35;, Swift, Matlab, JavaScript, HTML, CSS
+  description: Java, Python, C&#35;, Swift, Matlab, JavaScript, C++, HTML, CSS, LaTeX 
 
 - skill: Frameworks
-  description: .NET, Node.js, iOS, Cocoa Touch, AVFoundation
+  description: .NET, Node.js, CUDA, MPI, iOS, Cocoa Touch, AVFoundation
 
 - skill: Databases
   description: MySQL, Oracle, Microsoft SQL Server

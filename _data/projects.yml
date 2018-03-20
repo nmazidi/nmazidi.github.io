@@ -1,23 +1,29 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: UK Energy Prediction Network (ongoing)
+- project: Automatic Quantification of Breast Arterial Calcification in Mammographic Images (ongoing)
+  role: Python (NumPy, SciPy)&#44; TensorFlow, ImageJ
+  duration: 2017
+  url: "https://github.com/nmazidi/MammoCalcifications"
+  description: This project focuses on developing a system that serves as an aide to Radiologists when diagnosing breast arterial calcifications in women with the use of Mammography. This system will aim to automatically classify a given Mammogram image with respect it's overall calcification severity. Thus providing an addition use case for Mammography with no additional cost.
+
+- project: UK Energy Prediction Network
   role: Python
   duration: 2017
   url: "https://github.com/nmazidi/NRBF-NN"
   description: A normalised radial basis function (NRBF) that predicts the total energy demand in the UK, hour by hour.
 
-- project: MammoCalcifications (ongoing)
-  role: Python&#44; Matlab&#44; ImageJ
-  duration: 2017
-  url: "https://github.com/nmazidi/MammoCalcifications"
-  description: An automatic quantification system for arterial calcifications in digital mammograms of breasts, using image processing techniques, to be used as a quantitative cardiovascular risk indicator for women.
-
 - project: UniSystems
   role: Java&#44; MVC
   duration: 2016
   url: "https://github.com/iDanScott/UniSystems"
-  description: A car loaning system for staff members of a business. Desktop application used to maintain the details of cars, staff members and the loan information.
+  description: Working in collaboration, produced a car loaning system for staff members of a business. Desktop application used to maintain the details of cars, staff members and the loan information.
+
+- project: Gaussian Blur using Parallel Computation Techniques
+  role: C++&#44; C, CUDA&#44; MPI&#44;
+  duration: 2016
+  url: "https://github.com/nmazidi/GaussianBlur-CUDA-MPI"
+  description: Implementation of two Gaussian Blur algorithms, the first using CUDA/GPU and the second using the MPI framework. This takes an input of any image and gives an output of a blurred image. The purpose of this project was to compare the performaces of CUDA and MPI. 
 
 - project: Ant Colony Simulation
   role: C&#35;&#44; &#46;NET Framework
