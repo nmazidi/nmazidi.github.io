@@ -1,7 +1,7 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Automatic Quantification of Breast Arterial Calcification in Mammographic Images (ongoing)
+- project: Automatic Quantification of Breast Arterial Calcification in Mammographic Images (Private repository)
   role: Python (NumPy, SciPy)&#44; TensorFlow, ImageJ
   duration: 2017
   url: "https://github.com/nmazidi/MammoCalcifications"
@@ -23,7 +23,7 @@
   role: C++&#44; C, CUDA&#44; MPI&#44;
   duration: 2016
   url: "https://github.com/nmazidi/GaussianBlur-CUDA-MPI"
-  description: Implementation of two Gaussian Blur algorithms, the first using CUDA/GPU and the second using the MPI framework. This takes an input of any image and gives an output of a blurred image. The purpose of this project was to compare the performaces of CUDA and MPI. 
+  description: Implementation of two Gaussian Blur algorithms, the first using CUDA/GPU and the second using the MPI framework. This takes an input of any image and gives an output of a blurred image. The purpose of this project was to compare the performaces of CUDA and MPI.
 
 - project: Ant Colony Simulation
   role: C&#35;&#44; &#46;NET Framework
