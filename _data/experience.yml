@@ -2,7 +2,7 @@
 - company: Renishaw plc.
   position: Graduate Software Engineer
   duration:  September, 2018 &mdash; present
-  summary: As part of the research team in the <a href="https://www.renishaw.com/en/equator-gauging-system--12595">Measurements and Automation Products Division</a>, I have had the chance to work on a diverse set of interesting and exciting projects. These have included work on software-hardware interface design and Renishaw Real-time Linux Operating System. <p>Technologies used:</p><ul><li>C++</li><li>C</li><li>C#</li><li>Bash</li><li>Linux command line</li><li>Git version control</li></ul>
+  summary: As part of the research team in the <a href="https://www.renishaw.com/en/equator-gauging-system--12595">Measurements and Automation Products Division</a>, I have had the chance to work on a diverse set of interesting and exciting projects. These have included work on software-hardware interface and communications protocol design and Renishaw Real-time Linux Operating System for the successful Renishaw Equator gauging system. <p>Technologies used:</p><ul><li>C and C++</li><li>C#</li><li>Bash scripting</li><li>Linux command line</li><li>Make and CMake</li><li>Git version control</li></ul>
 
 - company: University of Plymouth
   position: Research Placement
