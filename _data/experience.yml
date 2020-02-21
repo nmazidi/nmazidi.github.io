@@ -7,7 +7,7 @@
 - company: University of Plymouth
   position: Research Placement
   duration:   Summer, 2017
-  summary: <p>Created a classifier based on the radial basis function for screening of Thalassemia. The aim of this study is to differentiate between persons with the thalassemia trait and normal subjects by inspecting characteristics of haemochromocytometric data.</p><p>Technologies used:</p><ul><li>MATLAB</li><li>ImageJ</li><li>Python</li><li>Git version control</li></ul>
+  summary: <p>Created a classifier based on the radial basis function for screening of Thalassemia. The aim of this study is to differentiate between persons with the thalassemia trait and normal subjects by inspecting characteristics of haemochromocytometric data.</p><p>Technologies used:</p><ul><li>Python</li><li>MATLAB</li><li>ImageJ</li><li>Git version control</li></ul>
 
 - company: Maiwand Restaurant
   position: HR, Food and Beverage Manager
