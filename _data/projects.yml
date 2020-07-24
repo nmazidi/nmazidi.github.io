@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Soleil
+  role: Flutter, Dart
+  duration: 2020
+  url: "https://github.com/nmazidi/soleil"
+  description:  A cross-platform weather forecast app built with Flutter (WIP).
+
 - project: Automatic Quantification of Breast Arterial Calcification in Mammographic Images
   role: Python (NumPy, SciPy)&#44; TensorFlow, ImageJ
   duration: 2017
