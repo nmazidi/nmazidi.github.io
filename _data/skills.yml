@@ -3,13 +3,10 @@
   description: Working in a team using Agile methodology, object-oriented programming, Git version control, design patterns, pair programming
 
 - skill: Languages
-  description: C++, Python, C, C&#35;, Bash, Java, Swift, Matlab, JavaScript, HTML, CSS, LaTeX 
+  description: C++, Python, Dart, C, C&#35;, Bash, Java, Swift, Matlab, JavaScript, HTML, CSS, LaTeX 
 
 - skill: Frameworks
-  description: .NET, Node.js, CUDA, MPI, iOS, Cocoa Touch, AVFoundation
-
-- skill: Databases
-  description: MySQL, Oracle, Microsoft SQL Server
+  description: .NET, Flutter, CUDA, MPI, iOS, Cocoa Touch, AVFoundation
 
 - skill: Spoken Languages
   description: English (Fluent), Dari (Fluent), Russian (Beginner)
